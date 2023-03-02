@@ -9,3 +9,4 @@ Neste repositório é armazenado todos os arquivos gerados durante o estudos.
 
 ## **1 - Conteúdo do Repositório**
 * **Docker**: Documento especificando passo a passo no aprendizado de Docker. Contém exemplos práticos e anotações importantes.
+* **Data Science**: Documento especificando passo a passo no aprendizado de Data Science. Contém exemplos práticos e anotações importantes.
