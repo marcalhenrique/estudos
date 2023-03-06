@@ -13,8 +13,6 @@ Neste projeto é utilizado o OCR (Optical Character Recognition) para a detecç�
 
 # 1. Projeto
 Notebook gerado com o objetivo de demonstrar a aplicação de processamento de imagens para a detecção de textos em placas de veículos, com base no curso de Visão Computacional: detecção de texto em placas de carro - Alura.  
-A partir do estudo do curso, foi desenvolvido um notebook com o objetivo de demonstrar a aplicação de processamento de imagens para a detecção de textos em placas de veículos utilizando o dataset do Laboratório de Processamento Digital de Sinais e Imagens/Centro Brasileiro de Pesquisas Físicas (LPDS/CBPF) disponível em:  [cbpf.br/cat/lpdsi](http://www.cbpf.br/cat/lpdsi)
-
 # 1.1. Pré-requisitos
 - Python 3.10.6
 - OpenCV 4.7.0
